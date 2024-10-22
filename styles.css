@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  body {
+    background-color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+button {
+    padding: 10px;
+        /* background-color: #27d64d; */
+        color: white;
+        font-size: 20 px;
+        border: none;
+        border-radius: 5px;
+        margin-left: 5px;
+}
+
+.add{
+    background-color: rgb(71, 207, 62);
+}
+
+.delete{
+    background-color: rgb(211, 33, 33);
+}
